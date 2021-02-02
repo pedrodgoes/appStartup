@@ -15,7 +15,7 @@ import {useNavigation} from '@react-navigation/native'
 import Api from '../../Api'
 import SignInput from '../../components/SignInput'
 
-import BarberLogo from '../../assets/publicdomainq-of2.svg'
+import BarberLogo from '../../assets/Machovka_Drilling_machine.svg'
 import EmailIcon from '../../assets/email.svg'
 import LockIcon from '../../assets/lock.svg'
 

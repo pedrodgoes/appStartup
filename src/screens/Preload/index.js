@@ -5,7 +5,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage'
 import { useNavigation} from '@react-navigation/native'
 import Api from '../../Api'
 import {UserContext} from '../../contexts/UserContext'
-import BarberLogo from '../../assets/publicdomainq-of2.svg'
+import BarberLogo from '../../assets/Machovka_Drilling_machine.svg'
 
 export default () => {
 
